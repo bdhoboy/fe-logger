@@ -1,0 +1,4 @@
+packages:
+  - 'packages/*'
+  - 'so-packages/*'
+  - 'lib-packages/*'
